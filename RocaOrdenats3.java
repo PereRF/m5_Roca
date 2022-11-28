@@ -16,7 +16,7 @@ public class RocaOrdenats3 {
        numero2 = scanner.nextInt();
         //Comparem el dos nombres
         if(numero2 >= numero1){
-             //Si el segon es igual o mes gran que el primer cxambiem el valor del primer per el segon
+             //Si el segon es igual o mes gran que el primer cxambiem el valor del primer per el segons
              numero1 = numero2;
         }else{
            //Si el segon es mes petit que el primer llegim la resta de linia, declarem variable boolean com false(break) 
