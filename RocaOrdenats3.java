@@ -7,8 +7,8 @@ public class RocaOrdenats3 {
     int numero1;
     int numero2;
     boolean ordenat = true;
-    // TEST XAVI
-    //Demanem el primer nombre i el guerdem 
+    // Test Dev
+    //Demanem el primer nombre i el guerdem
     numero1 = scanner.nextInt();
     //Bucle que controle el numero de vegades que comaparem els valors (n-1)
     for(int i=0; i < n-1; i++){
