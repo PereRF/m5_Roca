@@ -4,9 +4,9 @@ public class RocaOrdenats3 {
     Scanner scanner = new Scanner (System.in);
     //Declarem la variable que controle en numero de vegades que comprobarem el número
     int n = scanner.nextInt();
-    int numero1;
-    int numero2;
-    boolean ordenat = true;
+    int numero1;    //Variable que guarda en memoria
+    int numero2;    //Variable que usem per llegir noves entrades
+    boolean ordenat = true;     //Variable que diu si la cadena està ordenada
     // Test Dev
     //Demanem el primer nombre i el guerdem
     numero1 = scanner.nextInt();
